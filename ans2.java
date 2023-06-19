@@ -7,7 +7,7 @@
 // - Return k.
 
 import java.util.*;
-public class ans2 {
+class ans2 {
 
     private static int removeElement(int[] nums, int val) {
         
