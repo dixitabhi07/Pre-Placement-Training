@@ -7,7 +7,7 @@
 
 import java.util.*;
 
-public class ans3 {
+class ans3 {
     
     public int searchInsert(int[] nums, int target) {
         int start = 0;
