@@ -6,7 +6,7 @@
 
 import java.util.*;
 
-public class ans4 {
+class ans4 {
     
     public int[] plusOne(int[] digits) {
 
