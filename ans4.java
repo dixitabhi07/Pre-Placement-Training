@@ -8,7 +8,7 @@ import java.util.*;
 
 class ans4 {
     
-    public int[] plusOne(int[] digits) {
+    public static int[] plusOne(int[] digits) {
 
         int i = digits.length - 1;
 
