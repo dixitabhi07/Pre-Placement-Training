@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-class ans1 {
+class ans4 {
     
     public static int arrayPairSum(int[] nums) {
         Arrays.sort(nums);
