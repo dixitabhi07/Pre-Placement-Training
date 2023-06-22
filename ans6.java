@@ -4,7 +4,7 @@ import java.util.Arrays;
  
 class ans6{
     
-    public boolean containsDuplicate(int[] nums) {
+    public static boolean containsDuplicate(int[] nums) {
  
         
         for(int index = 1; index < nums.length; index++) {
